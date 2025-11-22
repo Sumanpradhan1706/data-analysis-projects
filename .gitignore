@@ -1,0 +1,15 @@
+# Ignore dataset CSV files in project db folders
+**/anaconda_projects/db/*.csv
+
+# Ignore dataset folders
+**/dataset/
+
+# Specific dataset filenames (in case they are elsewhere)
+Zomato-data-.csv
+Telco-Customer-Churn.csv
+covid_grouped.csv
+covid.csv
+coviddeath.csv
+gender_submission.csv
+resultfile.csv
+test.csv
