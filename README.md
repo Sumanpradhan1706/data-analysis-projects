@@ -1,4 +1,4 @@
-# data-analysis-portfolio-projects
+# data-analysis-projects
 
 Overview
 - This repository is a portfolio of small-to-medium data analysis projects implemented as Jupyter notebooks. Each project contains exploratory data analysis (EDA), visualizations, and (where applicable) baseline models. Use the per-project README files for more details.
