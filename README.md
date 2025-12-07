@@ -29,6 +29,12 @@ Projects
 - Data: `04_Titanic Dataset Analysis and Survival Predictions/anaconda_projects/db/train.csv`, `test.csv`, `gender_submission.csv`
 - Project README: `04_Titanic Dataset Analysis and Survival Predictions/README.md`
 
+5. 05_Recommendation System in Python
+- Summary: Item-based movie recommender using user ratings, sparse matrices, and k-nearest neighbors with cosine similarity.
+- Notebook: `05_Recommendation System in Python/anaconda_projects/db/Recommendation System in Python.ipynb`
+- Data: `05_Recommendation System in Python/anaconda_projects/db/ratings.csv`
+- Project README: `05_Recommendation System in Python/README.md`
+
 Getting started (recommended per-project)
 1. Open a PowerShell terminal and change to the repository root.
 
